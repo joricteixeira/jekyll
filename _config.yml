@@ -17,5 +17,5 @@ defaults:
       path: ""
     values:
       layout: "default"
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
 baseurl: /jekyll
